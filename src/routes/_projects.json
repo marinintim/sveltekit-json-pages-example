@@ -1,0 +1,14 @@
+{
+	"projects": [
+		{
+			"name": "First Project",
+			"description": "Some description",
+			"slug": "hi"
+		},
+		{
+			"name": "Second Project",
+			"description": "Some other description",
+			"slug": "world"
+		}
+	]
+}
